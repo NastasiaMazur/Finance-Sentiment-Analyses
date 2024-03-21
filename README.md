@@ -1,4 +1,4 @@
-# Finance-Sentiment-Analyses
+# Finance-Sentiment-Analysis
 Fine tuning two pre-trained language models for sentiment analysis tasks in finance domain, followed by visualizing the vector space at specific epochs and layers to analyze the learning process of both models.
 
 Model 1: distilbert-base-uncased (https://huggingface.co/distilbert/distilbert-base-uncased)
